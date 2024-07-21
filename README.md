@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please open an issue or reach out to us at [nayan.nilesh@gmail.com](mailto:nayan.nilesh@gmail.com).
+For any questions or suggestions, please open an issue or reach out to me at [nayan.nilesh@gmail.com](mailto:nayan.nilesh@gmail.com).
